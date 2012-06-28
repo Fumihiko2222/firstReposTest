@@ -1,1 +1,3 @@
-puts "hogehoge"
+10.times do
+	puts "hogehoge"
+end
